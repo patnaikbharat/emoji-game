@@ -1,0 +1,18 @@
+.app-container {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  height: 100vh;
+}
+
+.game-bg-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

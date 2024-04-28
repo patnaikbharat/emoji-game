@@ -1,0 +1,21 @@
+.list-item {
+  background-color: #ffffff33;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 15px;
+  margin: 7px;
+  list-style: none;
+  border: solid 1px #ffffff30;
+}
+
+.emoji-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.emoji {
+  width: 80px;
+}
